@@ -1,9 +1,8 @@
 System report
-Wed 29 Jun 2022 02:18:11 PM CEST
-CPU Temperature: 47.77 °C
-Memory Usage: 101/922MB (10.95%)
+Wed 29 Jun 2022 02:20:01 PM CEST
+CPU Temperature: 48.31 °C
+Memory Usage: 104/922MB (11.28%)
 Disk Usage: 8/14GB (65%)
-CPU Load: 128.00 %
+CPU Load: 100.00 %
 22M	storedData
-LiceoCocito
- 14:18:12 up 13 days, 20:05,  2 users,  load average: 1.28, 1.13, 1.05
+ 14:20:01 up 13 days, 20:07,  2 users,  load average: 1.00, 1.15, 1.07
