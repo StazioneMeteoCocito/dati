@@ -1,8 +1,9 @@
 System report
-Sun 10 Jul 2022 10:00:01 PM CEST
+Sun 10 Jul 2022 10:10:01 PM CEST
 CPU Temperature: 47.24 °C
-Memory Usage: 150/922MB (16.27%)
+Memory Usage: 152/922MB (16.49%)
 Disk Usage: 8/14GB (65%)
-CPU Load: 74.00 %
+CPU Load: 52.00 %
 58M	storedData
- 22:00:01 up 5 days, 19:17,  2 users,  load average: 0.74, 0.68, 0.67
+ 22:10:02 up 5 days, 19:27,  2 users,  load average: 0.52, 0.64, 0.68
+pi        9728  0.4  0.4   9024  4204 pts/1    S+   22:07   0:00 nano main.py
