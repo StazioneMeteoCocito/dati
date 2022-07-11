@@ -50,3 +50,9 @@
 2022-07-11 23:41:26  [pythonStation] Measurement taken
 2022-07-11 23:46:27  [pythonStation] Measurement taken
 2022-07-11 23:50:01  [gitExport] Starting github sync
+2022-07-11 23:51:29  [pythonStation] Measurement taken
+2022-07-11 23:56:30  [pythonStation] Measurement taken
+2022-07-12 00:00:01  [gitExport] Starting github sync
+2022-07-12 00:00:01  [nightCleanup] Trimming log to last 500 rows
+2022-07-12 00:00:01  [nightCleanup] Killing python and waiting a bit
+2022-07-12 00:00:01  [pythonStation] Gracefully handling death
