@@ -60,3 +60,13 @@
 2022-07-12 00:10:01  [gitExport] Starting github sync
 2022-07-12 00:20:01  [gitExport] Starting github sync
 2022-07-12 00:30:01  [gitExport] Starting github sync
+2022-07-12 00:32:54  [tmate] Starting tmate remote access daemon
+2022-07-12 00:36:11  [stationWrapper] Starting station main software
+2022-07-12 00:36:12  [pythonStation] Trying /dev/ttyACM0
+2022-07-12 00:36:22  [pythonStation] Measurement taken
+2022-07-12 00:38:20  [tmate] Starting tmate remote access daemon
+2022-07-12 00:39:39  [stationWrapper] Starting station main software
+2022-07-12 00:39:40  [tmate] Starting tmate remote access daemon
+2022-07-12 00:40:13  [pythonStation] Trying /dev/ttyACM0
+2022-07-12 00:40:20  [gitExport] Starting github sync
+2022-07-12 00:40:23  [pythonStation] Measurement taken
