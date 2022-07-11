@@ -1,10 +1,10 @@
 System report
-Mon 11 Jul 2022 09:30:01 PM CEST
+Mon 11 Jul 2022 09:39:19 PM CEST
 CPU Temperature: 47.24 °C
-Memory Usage: 157/922MB (17.03%)
+Memory Usage: 158/922MB (17.14%)
 Disk Usage: 8/14GB (65%)
-CPU Load: 81.00 %
+CPU Load: 103.00 %
 65M	storedData
-StazioneMeteo: 1 windows (created Mon Jul 11 21:10:02 2022)
- 21:30:01 up 19 min,  3 users,  load average: 0.81, 0.71, 0.66
-pi         580  0.1  2.9  48532 28260 pts/2    S+   21:10   0:01 python3 /home/pi/Desktop/station/main.py
+LiceoCocito
+ 21:39:20 up 29 min,  3 users,  load average: 1.03, 0.72, 0.67
+pi         580  0.1  2.9  48532 28260 pts/2    S+   21:10   0:02 python3 /home/pi/Desktop/station/main.py
