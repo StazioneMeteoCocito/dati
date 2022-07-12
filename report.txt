@@ -1,10 +1,8 @@
 System report
-Wed 13 Jul 2022 12:00:01 AM CEST
+Wed 13 Jul 2022 12:10:02 AM CEST
 CPU Temperature: 45.08 °C
-Memory Usage: 162/922MB (17.57%)
+Memory Usage: 145/922MB (15.73%)
 Disk Usage: 8/14GB (65%)
-CPU Load: 46.00 %
+CPU Load: 39.00 %
 32M	storedData
-StazioneMeteo: 1 windows (created Tue Jul 12 00:39:40 2022)
- 00:00:02 up 23:20,  3 users,  load average: 0.46, 0.60, 0.63
-pi         566  0.0  3.0  48980 28924 pts/1    S+   Jul12   0:11 python3 /home/pi/Desktop/station/main.py
+ 00:10:02 up 23:30,  2 users,  load average: 0.39, 0.60, 0.67
