@@ -629,3 +629,9 @@
 2022-07-13 21:48:24  [pythonStation] Measurement taken
 2022-07-13 21:48:54  [pythonStation] Gracefully handling death
 2022-07-13 21:50:01  [gitExport] Starting github sync
+2022-07-13 21:50:22  [stationWrapper] Starting station main software
+2022-07-13 21:50:23  [tmate] Starting tmate remote access daemon
+2022-07-13 21:50:33  [pythonStation] Trying /dev/ttyACM0
+2022-07-13 21:51:10  [pythonStation] Measurement taken
+2022-07-13 21:56:14  [pythonStation] Measurement taken
+2022-07-13 22:00:02  [gitExport] Starting github sync
