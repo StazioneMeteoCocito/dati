@@ -1,33 +1,3 @@
-2022-07-12 06:26:59  [pythonStation] Measurement taken
-2022-07-12 06:30:01  [gitExport] Starting github sync
-2022-07-12 06:32:00  [pythonStation] Measurement taken
-2022-07-12 06:37:02  [pythonStation] Measurement taken
-2022-07-12 06:40:01  [gitExport] Starting github sync
-2022-07-12 06:42:03  [pythonStation] Measurement taken
-2022-07-12 06:47:05  [pythonStation] Measurement taken
-2022-07-12 06:50:01  [gitExport] Starting github sync
-2022-07-12 06:52:06  [pythonStation] Measurement taken
-2022-07-12 06:57:07  [pythonStation] Measurement taken
-2022-07-12 07:00:01  [gitExport] Starting github sync
-2022-07-12 07:02:09  [pythonStation] Measurement taken
-2022-07-12 07:07:10  [pythonStation] Measurement taken
-2022-07-12 07:10:01  [gitExport] Starting github sync
-2022-07-12 07:12:11  [pythonStation] Measurement taken
-2022-07-12 07:17:13  [pythonStation] Measurement taken
-2022-07-12 07:20:01  [gitExport] Starting github sync
-2022-07-12 07:22:14  [pythonStation] Measurement taken
-2022-07-12 07:27:15  [pythonStation] Measurement taken
-2022-07-12 07:30:01  [gitExport] Starting github sync
-2022-07-12 07:32:17  [pythonStation] Measurement taken
-2022-07-12 07:37:18  [pythonStation] Measurement taken
-2022-07-12 07:40:01  [gitExport] Starting github sync
-2022-07-12 07:42:20  [pythonStation] Measurement taken
-2022-07-12 07:47:21  [pythonStation] Measurement taken
-2022-07-12 07:50:01  [gitExport] Starting github sync
-2022-07-12 07:52:22  [pythonStation] Measurement taken
-2022-07-12 07:57:24  [pythonStation] Measurement taken
-2022-07-12 08:00:01  [gitExport] Starting github sync
-2022-07-12 08:02:25  [pythonStation] Measurement taken
 2022-07-12 08:07:26  [pythonStation] Measurement taken
 2022-07-12 08:10:01  [gitExport] Starting github sync
 2022-07-12 08:12:28  [pythonStation] Measurement taken
@@ -527,3 +497,12 @@
 2022-07-14 03:30:00  [gitExport] Starting github sync
 2022-07-14 03:30:11  [pythonStation] Trying /dev/ttyACM0
 2022-07-14 03:30:21  [pythonStation] Measurement taken
+2022-07-14 03:35:32  [nightCleanup] Trimming log to last 500 rows
+2022-07-14 03:35:32  [nightCleanup] Killing python and waiting a bit
+2022-07-14 03:35:32  [pythonStation] Gracefully handling death
+2022-07-14 03:37:12  [stationWrapper] Daily power cycle
+2022-07-14 03:37:21  [stationWrapper] Starting station main software
+2022-07-14 03:37:21  [tmate] Starting tmate remote access daemon
+2022-07-14 03:38:00  [pythonStation] Trying /dev/ttyACM0
+2022-07-14 03:38:10  [pythonStation] Measurement taken
+2022-07-14 03:40:01  [gitExport] Starting github sync
