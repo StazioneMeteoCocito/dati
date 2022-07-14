@@ -1,8 +1,8 @@
 System report
-Thu 14 Jul 2022 02:30:01 AM CEST
-CPU Temperature: 44.01 °C
+Thu 14 Jul 2022 02:40:01 AM CEST
+CPU Temperature: 43.47 °C
 Memory Usage: 144/922MB (15.62%)
 Disk Usage: 8/14GB (64%)
-CPU Load: 51.00 %
+CPU Load: 64.00 %
 36M	storedData
- 02:30:02 up  4:39,  2 users,  load average: 0.51, 0.57, 0.62
+ 02:40:01 up  4:49,  2 users,  load average: 0.64, 0.62, 0.63
