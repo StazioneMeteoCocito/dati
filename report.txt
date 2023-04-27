@@ -1,8 +1,8 @@
 System report
-Thu 27 Apr 2023 03:00:01 PM CEST
-CPU Temperature: 41.32 °C
-Memory Usage: 506/922MB (54.88%)
+Thu 27 Apr 2023 03:10:01 PM CEST
+CPU Temperature: 41.86 °C
+Memory Usage: 505/922MB (54.77%)
 Disk Usage: 9/14GB (75%)
-CPU Load: 91.00 %
+CPU Load: 79.00 %
 47M	storedData
- 15:00:01 up 14:57,  2 users,  load average: 0.91, 0.91, 0.91
+ 15:10:01 up 15:07,  2 users,  load average: 0.79, 0.83, 0.89
